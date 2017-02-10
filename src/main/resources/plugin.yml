@@ -1,0 +1,12 @@
+main: com.rayzr522.rayzrmechanics.RayzrMechanics
+name: RayzrMechanics
+version: 1.0.0
+description: Various random features and mechanics added to the game.
+author: Rayzr
+#depend: [CreativelyNamedLib]
+#commands:
+#  rayzrmechanics:
+#    description: RayzrMechanics main command
+#    aliases: [alias1,alias2]
+#    usage: "/rayzrmechanics [command]"
+#    permission: RayzrMechanics.main
