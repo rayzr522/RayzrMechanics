@@ -9,7 +9,7 @@ public class RayzrMechanics extends JavaPlugin {
 
     @Override
     public void onEnable() {
-
+        getServer().getPluginManager().registerEvents(new MechanicsListener(this), this);
     }
 
 }
